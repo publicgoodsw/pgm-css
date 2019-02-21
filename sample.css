@@ -1,0 +1,29 @@
+/* Link color */
+a.brand-color:not(.button) { 
+  color: #d35b41;
+} 
+
+/* Button color */
+#moduleContainer .button.brand-color, #button-wrapper .text, .email-form a.submit, .single-input-form a.submit, form input[type=submit], .brand-color-bg { 
+  background-color: #d35b41 !important;
+} 
+
+/* Title color */
+.header, .content .title h1, .carousel h3 {
+  color: #d35b41;
+} 
+
+/* Button hover color */
+#moduleContainer .button.brand-color:hover { 
+  background-color: #be523b;
+} 
+
+/* Button border color */
+#button-wrapper .text { 
+  border-color: #a94934;
+} 
+
+/* Secondary brand color used for subtitles and highlighting */
+.brand-color-alt { 
+  color: #5590ba !important
+} 
