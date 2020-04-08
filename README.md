@@ -1,6 +1,6 @@
 # pgm-css
 
-This repository contains some useful files to aid in the creation of an external css file for the purpose of re-branding a custom Public Good Impact Unit (IU).  The latest version of the IU's styles.scss and compiled styles.css files are provided for reference while sample.css includes examples of some common css selectors for the IU.
+This repository contains a sample file to aid in the creation of an external css file for the purpose of re-branding a custom Public Good Action Unit (AU).  The sample.css file includes examples of some common css selectors for the AU.
 
 
 ## Getting started
